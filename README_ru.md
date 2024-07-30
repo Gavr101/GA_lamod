@@ -2,8 +2,8 @@
 В данном проекте реализован генетический алгоритм с бинарным кодированием, а также три его гендерных модификации, описанных в статье "Study of Modifications of Gender Genetic Algorithm" (http://dx.doi.org/10.1007/978-3-031-44865-2_30).
 
 Результаты их применения к модельным задачам:
-![ ](/images/picture_1.png)
-![ ](/images/picture_2.png)
+![](/pictures/picture_1.png)
+![](/pictures/picture_2.png)
 
 
 В директории <GA_1hc> реализован игрушечный пример с решением задачи 1-hot-coding.
